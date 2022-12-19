@@ -1,0 +1,31 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "TestableMviSample"
+include ':api-android:location:contract'
+include ':api-android:location:google'
+include ":app"
+include ":base:core"
+include ":base:test-shared"
+include ":base-ui:android-test-shared"
+include ":base-ui:ui-common"
+include ":base-ui:ui-theme"
+include ':data:contract'
+include ':data:repository'
+include ":datasource:remote"
+include ':domain:contract'
+include ':domain:use-case'
+include ':feature:sample:ui'
+include ':feature:sample:presentation'
+include ':base:orbit-utils'

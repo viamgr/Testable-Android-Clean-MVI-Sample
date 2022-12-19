@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CleanArchitectureSample</string>
+    <string name="unknown_error">Huh! An error occurred</string>
+    <string name="network_error">Huh! A Network error occurred</string>
+</resources>

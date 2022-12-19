@@ -1,0 +1,57 @@
+{
+  "id": "1118635128",
+  "title": "Lorem ipsum dolor sit amet",
+  "price": {
+    "currency": "EUR",
+    "amount": 859976
+  },
+  "visits": 2869,
+  "address": {
+    "street": "Weserstraße 15",
+    "city": "Berlin",
+    "zip-code": "12047",
+    "longitude": "13.4285519",
+    "latitude": "52.4874554"
+  },
+  "posted-date-time": "2021-10-08T08:01:00.000+0100",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "attributes": [
+    {
+      "label": "Attribute 1",
+      "value": "106,68",
+      "unit": "m²"
+    },
+    {
+      "label": "Attribute 2",
+      "value": "3"
+    },
+    {
+      "label": "Attribute 3",
+      "value": "5",
+      "unit": ""
+    }
+  ],
+  "features": [
+    "feature 1",
+    "feature 2",
+    "feature 3",
+    "feature 4",
+    "feature 5"
+  ],
+  "pictures": [
+    "https://picsum.photos/200?random=1",
+    "https://picsum.photos/200?random=2",
+    "https://picsum.photos/200?random=3",
+    "https://picsum.photos/200?random=57"
+  ],
+  "documents": [
+    {
+      "link": "https://google.com",
+      "title": "Link 1"
+    },
+    {
+      "link": "https://google.com",
+      "title": "Link 2"
+    }
+  ]
+}

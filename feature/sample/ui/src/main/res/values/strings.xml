@@ -1,0 +1,13 @@
+<resources>
+    <string name="title_sample_detail">Sample Detail</string>
+    <string name="price_currency">%s %s</string>
+    <string name="address_format">%s, %s, %s</string>
+    <string name="sample_id">ID: %s</string>
+    <string name="documents_header">Documents</string>
+    <string name="description_header">Description</string>
+    <string name="features_header">Features</string>
+    <string name="specifications_header">Details</string>
+    <string name="unit_value">%s %s</string>
+    <string name="carousel_index_total">%d / %d</string>
+
+</resources>

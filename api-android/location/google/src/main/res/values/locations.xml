@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="locations">
+        <item name="item1">Item 1</item>>
+        <item name="item2">Item 2</item>>
+        <item name="item3">Item 3</item>>
+    </string-array>
+
+</resources>

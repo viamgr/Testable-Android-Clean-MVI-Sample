@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_format">Error %s</string>
+    <string name="error_format_2">Error %s %s</string>
+    <string name="error_format_3">Error %s %s %s</string>
+    <string name="unknown_error">Huh! An error occurred</string>
+</resources>
